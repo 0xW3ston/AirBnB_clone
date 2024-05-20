@@ -37,7 +37,7 @@ The AirBnB Clone Console is a Python-based command-line interface (CLI) that all
 ## ``3-Installation``
 1.  Clone this GitHub repository to your local machine.
 
-`git clone https://github.com/nuuxcode/AirBnB-Clone.git`
+`git clone https://github.com/0xw3ston/AirBnB-Clone.git`
 
 2.  Navigate to the project directory.
 
